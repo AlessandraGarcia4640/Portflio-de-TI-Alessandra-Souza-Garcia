@@ -2,7 +2,7 @@
 
 Este repositório reúne projetos e trabalhos acadêmicos desenvolvidos durante a graduação em Análise e Desenvolvimento de Sistemas na UNISINOS e a mobilidade acadêmica na Faculdade de Ciências e Tecnologia da Universidade de Coimbra, em Portugal.
 
-Meu percurso profissional combina experiência em gestão pública, liderança de equipes, organização de processos e gestão do conhecimento com formação tecnológica em andamento. Tenho interesse especial em transformação digital do setor público, ciência de dados, segurança da informação e desenvolvimento de soluções aplicadas ao Poder Judiciário. Minha formação acadêmica sustenta-se nos três pilares essenciais ao Poder Judiciário: sou Mestre em Direito pela UEPG, aluna especial do Doutorado em Planejamento e Governança Pública pela UTFPR e graduanda em análise e desenvolvimento de sistemas.  
+Meu percurso profissional combina experiência em gestão pública, liderança de equipes, organização de processos e gestão do conhecimento com formação tecnológica em andamento. Tenho interesse especial em transformação digital do setor público, ciência de dados, segurança da informação e desenvolvimento de soluções aplicadas ao Poder Judiciário. Minha formação acadêmica sustenta-se nos três pilares essenciais ao Poder Judiciário: sou Mestre em Direito pela UEPG, aluna especial do Doutorado em Planejamento e Governança Pública pela UTFPR e graduanda em análise e desenvolvimento de sistemas pela Unisinos.  
 
 > **Escopo do portfólio:** as tecnologias apresentadas foram utilizadas em atividades acadêmicas, projetos de formação e ambientes controlados de laboratório. Este repositório registra uma trajetória de aprendizagem em tecnologia, sem atribuir experiência técnica de produção.
 
