@@ -12,13 +12,13 @@ Meu percurso profissional combina experiência em gestão pública, liderança d
 
 Aplicação criada para transformar um acervo documental linear em uma base pesquisável, organizada e versionada, apoiando a gestão do conhecimento e a consulta de precedentes.
 
-**Principais entregas:** pesquisa livre, filtros, visualização detalhada, histórico de versões, controle de vigência, cópia de conteúdo, exportação em PDF e separação entre consulta e funções administrativas.
+**Principais entregas na demonstração:** pesquisa livre, filtros por tema e situação, visualização detalhada, consulta de histórico, identificação de registros inativos, cópia de conteúdo e exportação pelo diálogo de impressão do navegador.
 
-**Tecnologias e conceitos:** HTML, CSS, JavaScript, JSON, Google Apps Script, Google Sheets, versionamento, governança da informação e controle de acesso.
+**Tecnologias e conceitos:** HTML, CSS, JavaScript e JSON na demonstração; Google Apps Script, Google Sheets, versionamento e permissões administrativas na arquitetura de referência.
 
-**Situação:** demonstração pública funcional, com dados inteiramente fictícios e acesso sem login.
+**Situação:** demonstração pública com dados fictícios, acesso sem login e interface somente para consulta. Código mantido em repositório próprio.
 
-[Acessar demonstração](https://alessandragarcia4640.github.io/gest-o-de-precedentes-Demo/) · [Ver código e documentação](https://github.com/AlessandraGarcia4640/gest-o-de-precedentes-Demo)
+[Conhecer o projeto](./projetos/gestao-de-precedentes/README.md) · [Ver estudo de caso](./projetos/gestao-de-precedentes/estudo-de-caso.md) · [Acessar demonstração](https://alessandragarcia4640.github.io/gestao-de-precedentes-Demo/)
 
 ---
 
