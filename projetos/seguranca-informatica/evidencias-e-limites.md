@@ -33,15 +33,15 @@ O processo de organização do portfólio não incluiu execução de scripts, va
 
 ## Publicação responsável
 
-Esta pasta contém somente sínteses novas em Markdown e diagramas conceituais. Não inclui cópias dos PDFs originais, registros brutos, credenciais, códigos de recuperação ou arquivos executáveis de laboratório.
+Além das sínteses em Markdown e dos diagramas conceituais, a subpasta [materiais](./materiais/README.md) contém três ZIPs com cópias públicas revisadas dos relatórios e arquivos de configuração. As áreas com dados de autenticação identificados foram removidas do conteúdo dos PDFs e marcadas em cinza, sem substituir o conteúdo por evidências inventadas.
 
-Endereços, matrículas e identificadores de sessão foram omitidos por não serem necessários para demonstrar o aprendizado. Não foi disponibilizado um ambiente vulnerável na internet.
+Nas sínteses, endereços e identificadores de sessão foram omitidos por não serem necessários para demonstrar o aprendizado. Nos pacotes, foram preservados os endereços de laboratório e as configurações, mas ocultadas matrículas, contatos pessoais e áreas com valores de autenticação identificados. Não foi disponibilizado um ambiente vulnerável na internet.
 
-**Limite desta entrega:** publicar estas páginas não remove os ZIPs que já existam em outras partes do repositório nem altera seu histórico. Não se deve interpretar esta apresentação como uma declaração de que todo o repositório está livre de dados sensíveis.
+**Limite desta entrega:** os ZIPs antigos da raiz foram substituídos, na versão atual, pelos pacotes revisados em `materiais/`. Os originais permanecem no histórico, que não foi reescrito. A revisão não invalida credenciais e não deve ser interpretada como uma declaração de que todo o histórico do repositório está livre de dados sensíveis.
 
 ## Possíveis evoluções
 
-- Preparar evidências visuais redigidas e revisadas, sem credenciais ou identificadores desnecessários.
+- Ampliar a curadoria de evidências visuais revisadas, sem credenciais ou identificadores desnecessários.
 - Separar resultados esperados e observados em uma matriz de testes reproduzível.
 - Confirmar as versões efetivamente usadas e resolver divergências dos relatórios.
 - Registrar a contribuição individual de cada integrante, após confirmação da equipe.

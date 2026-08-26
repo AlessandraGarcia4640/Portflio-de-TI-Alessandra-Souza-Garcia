@@ -2,6 +2,8 @@
 
 [Visão geral dos laboratórios](./README.md)
 
+[Baixar trabalho completo — ZIP revisado](./materiais/trabalho-pratico-1-publico.zip?raw=true) · [Nota sobre a revisão](./materiais/README.md)
+
 ## Objetivo
 
 Montar uma infraestrutura virtual com zonas de confiança distintas e exercitar o controle do tráfego entre rede interna, DMZ e interface externa do laboratório.

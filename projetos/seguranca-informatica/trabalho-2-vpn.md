@@ -2,6 +2,8 @@
 
 [Visão geral dos laboratórios](./README.md)
 
+[Baixar trabalho completo — ZIP revisado](./materiais/trabalho-pratico-2-publico.zip?raw=true) · [Nota sobre a revisão](./materiais/README.md)
+
 ## Objetivo
 
 Exercitar o acesso remoto no cenário *road warrior*: um cliente externo conecta-se a uma rede interna por VPN, com certificados e uma camada adicional de autenticação.
@@ -47,6 +49,6 @@ Nesta apresentação não são distribuídos certificados de cliente, chaves pri
 
 ## Fontes
 
-`TP2.pdf`, 23 páginas; arquivos `server.conf.txt` e `cliente.conf.txt`. A apresentação seleciona o objetivo, a arquitetura e os resultados narrados, sem republicar os anexos originais.
+`TP2.pdf`, 23 páginas; arquivos `server.conf.txt` e `cliente.conf.txt`. O pacote complementar contém uma cópia revisada do relatório e as configurações originais, com nota das ocultações.
 
 [Anterior: redes](./trabalho-1-redes.md) · [Próximo: segurança web](./trabalho-3-seguranca-web.md)

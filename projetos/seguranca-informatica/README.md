@@ -31,6 +31,6 @@ Os resumos foram elaborados a partir dos relatórios e arquivos de configuraçã
 
 A autoria é compartilhada. A documentação disponível não discrimina a contribuição individual em cada atividade; por isso, não se atribui a implementação integral a uma única pessoa.
 
-Estas páginas não reproduzem senhas, tokens, códigos de recuperação, matrículas, endereços pessoais ou capturas brutas de autenticação. Os documentos originais não foram incorporados a esta pasta. Esta seleção editorial não equivale à remoção de arquivos antigos ou à limpeza do histórico do repositório.
+Estas páginas não reproduzem senhas, tokens, códigos de recuperação, matrículas, endereços pessoais ou capturas brutas de autenticação. Para avaliação aprofundada, a pasta [materiais](./materiais/README.md) reúne os três relatórios completos em cópias públicas revisadas, com configurações e notas das alterações. Os originais não foram sobrescritos; o histórico do repositório não foi reescrito.
 
-[Consultar fontes, evidências e limites](./evidencias-e-limites.md) · [Voltar ao portfólio](../../README.md)
+[Baixar os trabalhos completos](./materiais/README.md) · [Consultar fontes, evidências e limites](./evidencias-e-limites.md) · [Voltar ao portfólio](../../README.md)

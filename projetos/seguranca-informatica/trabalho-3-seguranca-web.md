@@ -2,6 +2,8 @@
 
 [Visão geral dos laboratórios](./README.md)
 
+[Baixar trabalho completo — ZIP revisado](./materiais/trabalho-pratico-3-publico.zip?raw=true) · [Nota sobre a revisão](./materiais/README.md)
+
 ## Objetivo
 
 Comparar o comportamento de uma aplicação intencionalmente vulnerável antes e depois da introdução de uma Web Application Firewall (WAF), relacionando testes, respostas HTTP e registros de auditoria.
