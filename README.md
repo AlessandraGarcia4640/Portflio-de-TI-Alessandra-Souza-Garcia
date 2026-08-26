@@ -34,7 +34,7 @@ Projeto final da graduação em Análise e Desenvolvimento de Sistemas, voltado 
 
 **Situação:** Projeto Final I concluído, com pesquisa, requisitos iniciais, metodologia e planejamento definidos; protótipo funcional em desenvolvimento.
 
-[Consultar documentação do projeto](./Entrega%203%20-%20Projeto%20I.docx) · [Baixar arquivos do Gabinete+](./GabineteMais-main.zip)
+[Consultar documentação do projeto](./Entrega%203%20-%20Projeto%20I.docx)
 
 ---
 
