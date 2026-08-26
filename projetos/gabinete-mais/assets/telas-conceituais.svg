@@ -1,0 +1,76 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="900" viewBox="0 0 1280 900" role="img" aria-labelledby="title desc">
+  <title id="title">Gabinete+ — telas conceituais</title>
+  <desc id="desc">Três telas fictícias ilustram uma visão geral de tarefas, o detalhe de uma tarefa e uma substituição temporária. Não são capturas de funcionalidades implementadas.</desc>
+  <rect width="1280" height="900" fill="#eef2f5"/>
+  <g font-family="DejaVu Sans, Arial, sans-serif">
+    <text x="64" y="67" fill="#315e63" font-size="17" font-weight="700" letter-spacing="2">PROJETO ACADÊMICO · EM DESENVOLVIMENTO</text>
+    <text x="64" y="124" fill="#122c38" font-size="44" font-weight="700">Gabinete+</text>
+    <text x="64" y="163" fill="#52636c" font-size="22">Rotinas claras. Responsabilidades visíveis. Conhecimento preservado.</text>
+
+    <text x="64" y="215" fill="#315e63" font-size="18" font-weight="700">01 · ACOMPANHAR</text>
+    <text x="464" y="215" fill="#315e63" font-size="18" font-weight="700">02 · EXECUTAR</text>
+    <text x="864" y="215" fill="#315e63" font-size="18" font-weight="700">03 · TRANSFERIR</text>
+
+    <rect x="64" y="237" width="352" height="553" rx="22" fill="#fff" stroke="#c8d3da" stroke-width="2"/>
+    <rect x="464" y="237" width="352" height="553" rx="22" fill="#fff" stroke="#c8d3da" stroke-width="2"/>
+    <rect x="864" y="237" width="352" height="553" rx="22" fill="#fff" stroke="#c8d3da" stroke-width="2"/>
+
+    <text x="88" y="278" fill="#315e63" font-size="18" font-weight="700">GABINETE+</text>
+    <text x="88" y="321" fill="#122c38" font-size="27" font-weight="700">Visão geral</text>
+    <text x="88" y="352" fill="#52636c" font-size="18">Equipe demonstrativa</text>
+    <rect x="88" y="379" width="143" height="90" rx="12" fill="#edf5f3"/>
+    <rect x="249" y="379" width="143" height="90" rx="12" fill="#fff4df"/>
+    <text x="105" y="418" fill="#245b55" font-size="29" font-weight="700">4</text>
+    <text x="105" y="450" fill="#245b55" font-size="16">Em andamento</text>
+    <text x="266" y="418" fill="#775712" font-size="29" font-weight="700">1</text>
+    <text x="266" y="450" fill="#775712" font-size="16">A revisar</text>
+    <text x="88" y="510" fill="#122c38" font-size="19" font-weight="700">Próximas atividades</text>
+    <line x1="88" y1="526" x2="392" y2="526" stroke="#dce3e8"/>
+    <text x="88" y="557" fill="#122c38" font-size="18">Revisar roteiro de integração</text>
+    <text x="88" y="585" fill="#52636c" font-size="16">Equipe A · Em andamento</text>
+    <line x1="88" y1="604" x2="392" y2="604" stroke="#dce3e8"/>
+    <text x="88" y="635" fill="#122c38" font-size="18">Atualizar instruções</text>
+    <text x="88" y="663" fill="#52636c" font-size="16">Equipe B · A revisar</text>
+    <line x1="88" y1="720" x2="392" y2="720" stroke="#dce3e8"/>
+    <text x="88" y="755" fill="#245b55" font-size="17" font-weight="700">Início</text>
+    <text x="185" y="755" fill="#52636c" font-size="17">Tarefas</text>
+    <text x="312" y="755" fill="#52636c" font-size="17">Mais</text>
+
+    <text x="488" y="278" fill="#315e63" font-size="18" font-weight="700">DETALHE DA TAREFA</text>
+    <text x="488" y="321" fill="#122c38" font-size="25" font-weight="700">Revisar roteiro</text>
+    <text x="488" y="352" fill="#122c38" font-size="25" font-weight="700">de integração</text>
+    <text x="488" y="395" fill="#52636c" font-size="16">RESPONSÁVEL</text>
+    <text x="488" y="424" fill="#122c38" font-size="20">Equipe A</text>
+    <rect x="488" y="449" width="182" height="33" rx="16" fill="#edf5f3"/>
+    <text x="503" y="471" fill="#245b55" font-size="16" font-weight="700">Em andamento</text>
+    <text x="488" y="523" fill="#122c38" font-size="19" font-weight="700">Checklist proposto</text>
+    <rect x="488" y="547" width="20" height="20" rx="4" fill="#315e63"/>
+    <path d="M492 557 L497 562 L504 551" fill="none" stroke="#fff" stroke-width="2"/>
+    <text x="520" y="564" fill="#122c38" font-size="18">Consultar orientações</text>
+    <rect x="488" y="590" width="20" height="20" rx="4" fill="#fff" stroke="#81939c"/>
+    <text x="520" y="607" fill="#122c38" font-size="18">Revisar o conteúdo</text>
+    <rect x="488" y="633" width="20" height="20" rx="4" fill="#fff" stroke="#81939c"/>
+    <text x="520" y="650" fill="#122c38" font-size="18">Registrar pendências</text>
+    <rect x="488" y="710" width="304" height="50" rx="10" fill="#245b55"/>
+    <text x="640" y="742" text-anchor="middle" fill="#fff" font-size="19" font-weight="700">Registrar conclusão</text>
+
+    <text x="888" y="278" fill="#315e63" font-size="18" font-weight="700">CONTINUIDADE</text>
+    <text x="888" y="321" fill="#122c38" font-size="25" font-weight="700">Nova substituição</text>
+    <text x="888" y="352" fill="#52636c" font-size="18">Responsabilidade temporária</text>
+    <text x="888" y="396" fill="#52636c" font-size="16">TITULAR</text>
+    <rect x="888" y="408" width="304" height="48" rx="8" fill="#f7f9fa" stroke="#c8d3da"/>
+    <text x="903" y="438" fill="#122c38" font-size="19">Perfil A · Exemplo</text>
+    <text x="888" y="491" fill="#52636c" font-size="16">SUBSTITUTO</text>
+    <rect x="888" y="503" width="304" height="48" rx="8" fill="#f7f9fa" stroke="#c8d3da"/>
+    <text x="903" y="533" fill="#122c38" font-size="19">Perfil B · Exemplo</text>
+    <text x="888" y="586" fill="#52636c" font-size="16">PERÍODO DEMONSTRATIVO</text>
+    <text x="888" y="616" fill="#122c38" font-size="20">Dia 01 ao dia 10</text>
+    <text x="888" y="659" fill="#52636c" font-size="16">Acesso temporário e histórico:</text>
+    <text x="888" y="682" fill="#52636c" font-size="16">regras previstas no projeto.</text>
+    <rect x="888" y="710" width="304" height="50" rx="10" fill="#245b55"/>
+    <text x="1040" y="742" text-anchor="middle" fill="#fff" font-size="19" font-weight="700">Revisar substituição</text>
+
+    <text x="64" y="836" fill="#315e63" font-size="18" font-weight="700">TELAS CONCEITUAIS · EXEMPLOS FICTÍCIOS · SEM INTERAÇÃO</text>
+    <text x="64" y="866" fill="#52636c" font-size="17">Representação da proposta. Não é captura de funcionalidades implementadas.</text>
+  </g>
+</svg>

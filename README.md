@@ -28,13 +28,13 @@ Projeto final da graduação em Análise e Desenvolvimento de Sistemas, voltado 
 
 **Problema tratado:** perda de conhecimento, retrabalho e descontinuidade administrativa durante mudanças de gestão.
 
-**Principais entregas planejadas:** checklists de rotinas, registro de orientações e contatos, distribuição de tarefas e preservação da memória institucional.
+**Principais entregas:** requisitos iniciais, perfis de usuários, catálogo de atividades, fluxos de navegação, wireframes e estrutura técnica inicial. Gestão de tarefas, checklists e substituições temporárias são funcionalidades planejadas.
 
-**Tecnologias e conceitos:** levantamento de requisitos, modelagem de processos, gestão do conhecimento, experiência do usuário, documentação e planejamento de produto.
+**Tecnologias e conceitos:** TypeScript, React Native, Expo, Node.js, Express, PostgreSQL, Prisma, levantamento de requisitos, modelagem de processos e gestão do conhecimento.
 
-**Situação:** Projeto Final I concluído, com pesquisa, requisitos iniciais, metodologia e planejamento definidos; protótipo funcional em desenvolvimento.
+**Situação:** Projeto Final I concluído; requisitos e wireframes documentados, com implementação em estágio inicial. Apresentação pública com exemplos fictícios; código de desenvolvimento mantido em repositório privado.
 
-[Consultar documentação do projeto](./Entrega%203%20-%20Projeto%20I.docx)
+[Conhecer o projeto](./projetos/gabinete-mais/README.md) · [Ver estudo de caso](./projetos/gabinete-mais/estudo-de-caso.md) · [Ver arquitetura](./projetos/gabinete-mais/arquitetura.md)
 
 ---
 
