@@ -76,8 +76,6 @@ Estudo acadêmico sobre transformação digital do Estado, interoperabilidade, s
 
 **Situação:** estudo e artigo acadêmico concluídos durante a mobilidade na Universidade de Coimbra.
 
-[Consultar o artigo](./Trabalho_NIS2_AP_Penacova.docx)
-
 ## Competências em formação
 
 - **Dados e desenvolvimento:** Python, NumPy, Pandas, SQL, SQLite, ETL, modelagem relacional e fundamentos de Java.
