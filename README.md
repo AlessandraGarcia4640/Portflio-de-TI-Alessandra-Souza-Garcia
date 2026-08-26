@@ -18,7 +18,7 @@ Aplicação criada para transformar um acervo documental linear em uma base pesq
 
 **Situação:** demonstração pública funcional, com dados inteiramente fictícios e acesso sem login.
 
-[Acessar demonstração](https://alessandragarcia4640.github.io/gestao-de-precedentes-demo/) · [Ver código e documentação](https://github.com/AlessandraGarcia4640/gestao-de-precedentes-demo)
+[Acessar demonstração](https://alessandragarcia4640.github.io/gest-o-de-precedentes-Demo/) · [Ver código e documentação](https://github.com/AlessandraGarcia4640/gest-o-de-precedentes-Demo)
 
 ---
 
