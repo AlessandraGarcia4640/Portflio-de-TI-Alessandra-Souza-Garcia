@@ -1,28 +1,42 @@
 Portfólio de Tecnologia — Alessandra Souza Garcia
 
-Este repositório reúne projetos e trabalhos acadêmicos desenvolvidos durante a graduação em Análise e Desenvolvimento de Sistemas (UNISINOS) e a mobilidade acadêmica na Faculdade de Ciências e Tecnologia da Universidade de Coimbra, em Portugal.
+Este repositório reúne projetos e trabalhos acadêmicos desenvolvidos durante a graduação em Análise e Desenvolvimento de Sistemas na UNISINOS e a mobilidade acadêmica na Faculdade de Ciências e Tecnologia da Universidade de Coimbra, em Portugal.
 
 Meu percurso profissional combina experiência em gestão pública, liderança de equipes, organização de processos e gestão do conhecimento com formação tecnológica em andamento. Tenho interesse especial em transformação digital do setor público, ciência de dados, segurança da informação e desenvolvimento de soluções aplicadas ao Poder Judiciário.
 
-Escopo do portfólio: as tecnologias descritas abaixo foram utilizadas em atividades acadêmicas, projetos de formação e ambientes controlados de laboratório. O repositório registra uma trajetória de aprendizagem em TI, sem atribuir experiência técnica de produção.
+Escopo do portfólio: as tecnologias apresentadas foram utilizadas em atividades acadêmicas, projetos de formação e ambientes controlados de laboratório. Este repositório registra uma trajetória de aprendizagem em tecnologia, sem atribuir experiência técnica de produção.
 
-Projetos publicados
+Projetos em destaque
 
-## Gestão de Precedentes Judiciais
+Gestão de Precedentes Judiciais
 
-Aplicação desenvolvida para transformar um acervo linear em uma base pesquisável, organizada e versionada. A solução contempla pesquisa, filtros, histórico de versões, controle de vigência e exportação em PDF.
+Aplicação criada para transformar um acervo documental linear em uma base pesquisável, organizada e versionada, apoiando a gestão do conhecimento e a consulta de precedentes.
 
-A demonstração pública utiliza somente dados fictícios e funciona sem login.
+Principais entregas: pesquisa livre, filtros, visualização detalhada, histórico de versões, controle de vigência, cópia de conteúdo, exportação em PDF e separação entre consulta e funções administrativas.
 
-**Tecnologias:** HTML, CSS, JavaScript, JSON, Google Apps Script e Google Sheets.
+Tecnologias e conceitos: HTML, CSS, JavaScript, JSON, Google Apps Script, Google Sheets, versionamento, governança da informação e controle de acesso.
 
-🔗 [Acessar demonstração](https://alessandragarcia4640.github.io/gestao-de-precedentes-demo/)
-💻 [Ver código e documentação](https://github.com/AlessandraGarcia4640/gestao-de-precedentes-demo)
+Situação: demonstração pública funcional, com dados inteiramente fictícios e acesso sem login.
 
+Acessar demonstração · Ver código e documentação
+
+Gabinete+
+
+Projeto final da graduação em Análise e Desenvolvimento de Sistemas, voltado à criação de uma plataforma digital para organizar rotinas, apoiar transições de chefia e preservar o conhecimento institucional em gabinetes de desembargadores.
+
+Problema tratado: perda de conhecimento, retrabalho e descontinuidade administrativa durante mudanças de gestão.
+
+Principais entregas planejadas: checklists de rotinas, registro de orientações e contatos, distribuição de tarefas e preservação da memória institucional.
+
+Tecnologias e conceitos: levantamento de requisitos, modelagem de processos, gestão do conhecimento, experiência do usuário, documentação e planejamento de produto.
+
+Situação: Projeto Final I concluído, com pesquisa, requisitos iniciais, metodologia e planejamento definidos; protótipo funcional em desenvolvimento.
+
+Consultar documentação do projeto · Baixar arquivos do Gabinete+
 
 Fundamentos de Segurança Informática
 
-Trabalhos práticos realizados em equipe na Universidade de Coimbra, com documentação dos objetivos, da configuração dos ambientes e dos testes executados.
+Conjunto de trabalhos práticos realizados em equipe na Universidade de Coimbra, com documentação dos objetivos, configuração dos ambientes e testes executados.
 
 Trabalho
 
@@ -34,47 +48,45 @@ Trabalho Prático 1
 
 Infraestrutura de rede segmentada, defesa perimetral e monitoramento de tráfego
 
-CentOS 9, VirtualBox, IPTables/Netfilter, NAT, DMZ, Suricata IDS/IPS
+CentOS 9, VirtualBox, IPTables/Netfilter, NAT, DMZ e Suricata IDS/IPS
 
 Trabalho Prático 2
 
 Acesso remoto seguro no cenário road warrior, com infraestrutura de confiança e autenticação reforçada
 
-OpenVPN, PKI, certificados X.509, OpenSSL, OCSP, OTP/TOTP
+OpenVPN, PKI, certificados X.509, OpenSSL, OCSP e OTP/TOTP
 
 Trabalho Prático 3
 
 Testes de segurança em aplicação web e avaliação de proteção por WAF
 
-OWASP Juice Shop, OWASP ZAP/WSTG, Kali Linux, Apache, ModSecurity, OWASP CRS
+OWASP Juice Shop, OWASP ZAP/WSTG, Kali Linux, Apache, ModSecurity e OWASP CRS
 
-Gabinete+
+Principais entregas: laboratórios documentados de segmentação de redes, VPN, infraestrutura de chaves públicas, autenticação multifator, detecção de intrusão e segurança de aplicações web.
 
-Projeto final da graduação em ADS, voltado à criação de uma plataforma digital para organizar rotinas, apoiar transições de chefia e preservar o conhecimento institucional em gabinetes de desembargadores.
-
-Problema tratado: perda de conhecimento, retrabalho e descontinuidade administrativa em mudanças de gestão.
-
-Funcionalidades planejadas: checklists de rotinas, registro de orientações, contatos e distribuição de tarefas.
-
-Situação: Projeto Final I concluído, com pesquisa, requisitos iniciais, metodologia e planejamento definidos; protótipo funcional em desenvolvimento.
-
-Documento: Entrega 3 — Projeto I.
-
-Outros projetos acadêmicos
+Situação: atividades acadêmicas concluídas em ambiente controlado de laboratório.
 
 Ciência de Dados e Inteligência Artificial
 
-Protótipo acadêmico de sistema de gestão de dados para oficinas automóveis, desenvolvido com Python, NumPy, Pandas e SQLite. O trabalho envolveu integração e limpeza de dados, modelagem relacional, ETL, consultas SQL, relatórios estatísticos e previsão da necessidade de revisão de veículos.
+Protótipo acadêmico de sistema de gestão de dados para oficinas automóveis, desenvolvido para exercitar o ciclo completo de tratamento, armazenamento, análise e uso de dados.
+
+Principais entregas: integração e limpeza de dados, modelagem relacional, processo ETL, consultas SQL, relatórios estatísticos e previsão da necessidade de revisão de veículos.
+
+Tecnologias e conceitos: Python, NumPy, Pandas, SQLite, SQL, ETL, modelagem relacional, análise exploratória e fundamentos de previsão.
+
+Situação: protótipo acadêmico desenvolvido durante a mobilidade na Universidade de Coimbra.
 
 Governação Eletrónica
 
-Estudo sobre transformação digital do Estado, interoperabilidade, serviços públicos digitais, dados abertos e proteção de dados. A atividade principal foi a elaboração, em equipe, de artigo sobre a implementação das Diretivas NIS1 e NIS2 na Administração Pública portuguesa.
+Estudo acadêmico sobre transformação digital do Estado, interoperabilidade, serviços públicos digitais, dados abertos e proteção de dados, com foco nos desafios institucionais da cibersegurança.
 
-Tema: desafios, vantagens e limitações da implementação das diretivas na Administração Pública portuguesa.
+Principais entregas: artigo elaborado em equipe sobre a implementação das Diretivas NIS1 e NIS2 na Administração Pública portuguesa, abordando desafios, vantagens e limitações.
 
-Abordagem: governação digital, cibersegurança, gestão de riscos e capacidade institucional.
+Tecnologias e conceitos: governação digital, cibersegurança, gestão de riscos, interoperabilidade, proteção de dados e capacidade institucional.
 
-Documento: Implementação da Diretiva NIS1 e NIS2 na Administração Pública em Portugal.
+Situação: estudo e artigo acadêmico concluídos durante a mobilidade na Universidade de Coimbra.
+
+Consultar o artigo
 
 Competências em formação
 
@@ -82,16 +94,17 @@ Dados e desenvolvimento: Python, NumPy, Pandas, SQL, SQLite, ETL, modelagem rela
 
 Segurança da informação: redes, firewalls, VPN, PKI, autenticação, IDS/IPS e segurança de aplicações web.
 
-Transformação digital: governação eletrónica, interoperabilidade, serviços digitais, gestão de riscos, proteção de dados e governança de IA.
+Transformação digital: governação eletrónica, interoperabilidade, serviços digitais, gestão de riscos, proteção de dados e governança de inteligência artificial.
 
 Projetos e processos: levantamento de requisitos, documentação, planejamento, organização de fluxos e gestão do conhecimento.
 
 Formação relacionada
 
-Tecnologia em Análise e Desenvolvimento de Sistemas — UNISINOS, conclusão prevista para dezembro de 2026.
+Tecnologia em Análise e Desenvolvimento de Sistemas — UNISINOS: conclusão prevista para dezembro de 2026.
 
-Mobilidade acadêmica internacional — Universidade de Coimbra, fevereiro a julho de 2026; disciplinas em Governação Eletrónica, Introdução à Inteligência Artificial e Ciência de Dados, Fundamentos de Segurança Informática e Ética, Comunicação e Liderança.
+Mobilidade acadêmica internacional — Universidade de Coimbra: fevereiro a julho de 2026, com disciplinas em Governação Eletrónica, Introdução à Inteligência Artificial e Ciência de Dados, Fundamentos de Segurança Informática e Ética, Comunicação e Liderança.
+
+Perfil profissional
 
 Alessandra Souza Garcia
-
-Gestão pública e de projetos | Transformação digital | ADS em formação
+Gestão pública e de projetos · Transformação digital · Análise e Desenvolvimento de Sistemas em formação
