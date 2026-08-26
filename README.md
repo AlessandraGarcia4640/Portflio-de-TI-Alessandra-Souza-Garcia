@@ -54,13 +54,15 @@ Três laboratórios realizados em equipe na Universidade de Coimbra, conectando 
 
 ### Ciência de Dados e Inteligência Artificial
 
-Protótipo acadêmico de sistema de gestão de dados para oficinas automóveis, desenvolvido para exercitar o ciclo completo de tratamento, armazenamento, análise e uso de dados.
+Protótipo acadêmico de gestão de dados para oficinas automóveis, conectando importação de dados, banco relacional e integração com um modelo de classificação para apoiar a análise da necessidade de revisão.
 
-**Principais entregas:** integração e limpeza de dados, modelagem relacional, processo ETL, consultas SQL, relatórios estatísticos e previsão da necessidade de revisão de veículos.
+**Principais entregas identificadas no código:** importação de JSON e CSV, conversão de tipos, modelagem de cinco tabelas SQLite, consultas por matrícula, organização em camadas e integração para geração e armazenamento de previsões.
 
-**Tecnologias e conceitos:** Python, NumPy, Pandas, SQLite, SQL, ETL, modelagem relacional, análise exploratória e fundamentos de previsão.
+**Tecnologias e conceitos:** Python, SQLite, SQL, CSV, JSON, Joblib, modelagem relacional, ETL e integração com modelo de aprendizagem de máquina.
 
-**Situação:** protótipo acadêmico desenvolvido durante a mobilidade na Universidade de Coimbra.
+**Situação:** entrega acadêmica com código e relatório, analisada documentalmente. A execução completa e o desempenho preditivo ainda não foram validados nesta revisão; há ajustes de consistência documentados.
+
+[Conhecer o projeto](./projetos/ciencia-de-dados-ia/README.md) · [Ver arquitetura](./projetos/ciencia-de-dados-ia/arquitetura.md) · [Consultar evidências e limites](./projetos/ciencia-de-dados-ia/evidencias-e-limites.md)
 
 ---
 
