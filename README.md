@@ -40,17 +40,15 @@ Projeto final da graduação em Análise e Desenvolvimento de Sistemas, voltado 
 
 ### Fundamentos de Segurança Informática
 
-Conjunto de trabalhos práticos realizados em equipe na Universidade de Coimbra, com documentação dos objetivos, configuração dos ambientes e testes executados.
+Três laboratórios realizados em equipe na Universidade de Coimbra, conectando segurança de redes, identidade digital e proteção de aplicações web.
 
-| Trabalho | Síntese | Tecnologias e conceitos |
-|---|---|---|
-| [Trabalho Prático 1](./Trabalho%20Prático%201.zip) | Infraestrutura de rede segmentada, defesa perimetral e monitoramento de tráfego | CentOS 9, VirtualBox, IPTables/Netfilter, NAT, DMZ e Suricata IDS/IPS |
-| [Trabalho Prático 2](./Trabalho%20Prático%202.zip) | Acesso remoto seguro no cenário *road warrior*, com infraestrutura de confiança e autenticação reforçada | OpenVPN, PKI, certificados X.509, OpenSSL, OCSP e OTP/TOTP |
-| [Trabalho Prático 3](./Trabalho%20Prático%203.zip) | Testes de segurança em aplicação web e avaliação de proteção por WAF | OWASP Juice Shop, OWASP ZAP/WSTG, Kali Linux, Apache, ModSecurity e OWASP CRS |
+**Principais entregas:** rede segmentada com firewall e monitoramento; acesso remoto por VPN com certificados e autenticação multifator; comparação de testes web antes e depois da introdução de uma WAF.
 
-**Principais entregas:** laboratórios documentados de segmentação de redes, VPN, infraestrutura de chaves públicas, autenticação multifator, detecção de intrusão e segurança de aplicações web.
+**Tecnologias e conceitos:** CentOS, VirtualBox, IPTables, Suricata, OpenVPN, OpenSSL, PKI, OCSP, PAM/TOTP, Kali Linux, OWASP ZAP/WSTG, Juice Shop, Apache, ModSecurity e OWASP CRS.
 
-**Situação:** atividades acadêmicas concluídas em ambiente controlado de laboratório.
+**Situação:** atividades acadêmicas concluídas em laboratório. Apresentação pública com arquitetura, resultados documentados e limites, sem atribuir experiência de produção ou validação independente dos testes.
+
+[Conhecer os laboratórios](./projetos/seguranca-informatica/README.md) · [Ver comparação com WAF](./projetos/seguranca-informatica/trabalho-3-seguranca-web.md) · [Consultar evidências e limites](./projetos/seguranca-informatica/evidencias-e-limites.md)
 
 ---
 
