@@ -8,6 +8,18 @@ Escopo do portfólio: as tecnologias descritas abaixo foram utilizadas em ativid
 
 Projetos publicados
 
+## Gestão de Precedentes Judiciais
+
+Aplicação desenvolvida para transformar um acervo linear em uma base pesquisável, organizada e versionada. A solução contempla pesquisa, filtros, histórico de versões, controle de vigência e exportação em PDF.
+
+A demonstração pública utiliza somente dados fictícios e funciona sem login.
+
+**Tecnologias:** HTML, CSS, JavaScript, JSON, Google Apps Script e Google Sheets.
+
+🔗 [Acessar demonstração](https://alessandragarcia4640.github.io/gestao-de-precedentes-demo/)
+💻 [Ver código e documentação](https://github.com/AlessandraGarcia4640/gestao-de-precedentes-demo)
+
+
 Fundamentos de Segurança Informática
 
 Trabalhos práticos realizados em equipe na Universidade de Coimbra, com documentação dos objetivos, da configuração dos ambientes e dos testes executados.
