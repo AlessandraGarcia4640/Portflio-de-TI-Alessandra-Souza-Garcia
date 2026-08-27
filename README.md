@@ -1,10 +1,18 @@
 # Portfólio de Tecnologia — Alessandra Souza Garcia
 
+[English version](./README.en.md)
+
 Este repositório reúne projetos e trabalhos acadêmicos desenvolvidos durante a graduação em Análise e Desenvolvimento de Sistemas na UNISINOS e a mobilidade acadêmica na Faculdade de Ciências e Tecnologia da Universidade de Coimbra, em Portugal.
 
-Meu percurso profissional combina experiência em gestão pública, liderança de equipes, organização de processos e gestão do conhecimento com formação tecnológica em andamento. Tenho interesse especial em transformação digital do setor público, ciência de dados, segurança da informação e desenvolvimento de soluções aplicadas ao Poder Judiciário. Minha formação acadêmica sustenta-se nos três pilares essenciais ao Poder Judiciário: sou Mestre em Direito pela UEPG, aluna especial do Doutorado em Planejamento e Governança Pública pela UTFPR e graduanda em análise e desenvolvimento de sistemas pela Unisinos.  
+Meu percurso profissional combina experiência em gestão pública, liderança de equipes, organização de processos e gestão do conhecimento com formação tecnológica em andamento. Meus principais interesses concentram-se em **governança pública, transformação digital do setor público, ciência de dados, segurança da informação, inteligência artificial e desenvolvimento de soluções aplicadas ao Poder Judiciário**.
+
+Minha formação acadêmica conecta três áreas complementares: sou Mestre em Direito pela UEPG, aluna especial do Doutorado em Planejamento e Governança Pública pela UTFPR e graduanda em Análise e Desenvolvimento de Sistemas pela UNISINOS.
 
 > **Escopo do portfólio:** as tecnologias apresentadas foram utilizadas em atividades acadêmicas, projetos de formação e ambientes controlados de laboratório. Este repositório registra uma trajetória de aprendizagem em tecnologia, sem atribuir experiência técnica de produção.
+
+## Foco estratégico
+
+O portfólio está organizado na interseção entre **governança pública, transformação digital, gestão institucional e tecnologia aplicada**. Seu propósito é documentar a formação tecnológica e, ao mesmo tempo, demonstrar como dados, segurança, inteligência artificial e desenvolvimento de sistemas podem contribuir para inovação pública, gestão do conhecimento e modernização da Administração Pública e do Poder Judiciário.
 
 ## Projetos em destaque
 
@@ -80,7 +88,7 @@ Estudo acadêmico sobre transformação digital do Estado, interoperabilidade, s
 
 - **Dados e desenvolvimento:** Python, NumPy, Pandas, SQL, SQLite, ETL, modelagem relacional e fundamentos de Java.
 - **Segurança da informação:** redes, firewalls, VPN, PKI, autenticação, IDS/IPS e segurança de aplicações web.
-- **Transformação digital:** governação eletrónica, interoperabilidade, serviços digitais, gestão de riscos, proteção de dados e governança de inteligência artificial.
+- **Transformação digital e governança:** governação eletrónica, interoperabilidade, serviços digitais, gestão de riscos, proteção de dados, governança de dados e governança de inteligência artificial.
 - **Projetos e processos:** levantamento de requisitos, documentação, planejamento, organização de fluxos e gestão do conhecimento.
 
 ## Formação relacionada
@@ -88,7 +96,9 @@ Estudo acadêmico sobre transformação digital do Estado, interoperabilidade, s
 - **Tecnologia em Análise e Desenvolvimento de Sistemas — UNISINOS:** conclusão prevista para dezembro de 2026.
 - **Mobilidade acadêmica internacional — Universidade de Coimbra:** fevereiro a julho de 2026, com disciplinas em Governação Eletrónica, Introdução à Inteligência Artificial e Ciência de Dados, Fundamentos de Segurança Informática e Ética, Comunicação e Liderança.
 
-## Perfil profissional
+## Perfil acadêmico-profissional
 
 **Alessandra Souza Garcia**  
-Gestão pública e de projetos · Transformação digital · Análise e Desenvolvimento de Sistemas em formação
+Governança pública · Transformação digital · Gestão institucional · Tecnologia aplicada ao setor público
+
+**ORCID:** https://orcid.org/0000-0001-5567-7981
