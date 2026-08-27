@@ -1,4 +1,4 @@
-# Portfólio de Tecnologia — Alessandra Souza Garcia
+# Portfólio de Tecnologia e Governança Pública — Alessandra Souza Garcia
 
 [English version](./README.en.md)
 
