@@ -101,4 +101,5 @@ Estudo acadêmico sobre transformação digital do Estado, interoperabilidade, s
 **Alessandra Souza Garcia**  
 Governança pública · Transformação digital · Gestão institucional · Tecnologia aplicada ao setor público
 
-**ORCID:** https://orcid.org/0000-0001-5567-7981
+**ORCID:** https://orcid.org/0000-0001-5567-7981  
+**Currículo Lattes:** https://lattes.cnpq.br/1556009132116901
